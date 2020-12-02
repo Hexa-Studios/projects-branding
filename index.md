@@ -34,3 +34,4 @@ This small website houses all branding and design guidelines for all Hexa Studio
 
 If any additional data is needed, just contact me at [mat@hexastudios.co](mailto:mat@hexastudios.co)
 
+
