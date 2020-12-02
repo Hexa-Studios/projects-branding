@@ -16,7 +16,7 @@
 title: Hexa Branding
 description: Directory of branding guidelines for all Hexa Studios projects.
 baseurl: "/projects-branding/" # the subpath of your site, e.g. /blog
-url: "https://branding.hexastudios.co" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hexa-studios.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/"]
