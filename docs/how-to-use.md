@@ -34,7 +34,7 @@ This is the main logo. As with all the other images, it's available in various f
 Often there are multiple formats of the same logo, to suit different use cases. The alternates will be listed here.
 
 <div class="v-align-middle" style="background-color:black" >
-	<img class="i-half" src="/assets/images/hexa-studios/white_transparent_logo.png">
+	<img class="i-half" src="{{ site.baseurl }}/assets/images/hexa-studios/white_transparent_logo.png">
 </div>
 
 [Download]({{ site.baseurl }}/assets/images/hexa-studios/white_transparent_logo.png){: .btn .btn-blue }
