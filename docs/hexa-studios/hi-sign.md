@@ -16,23 +16,23 @@ parent: Hexa Internal Projects
 
 This is the main logo for the ferry, but doesn't scale well for smaller sizes. The app icon is better for smaller screens.
 
-![Hi Sign Icon](/assets/images/hexa-studios/projects/hi-sign/ios-icon.png)
+![Hi Sign Icon]({{ site.baseurl }}/assets/images/hexa-studios/projects/hi-sign/ios-icon.png)
 {: .i-half}
 
-[Download](/assets/images/hexa-studios/projects/hi-sign/ios-icon.png){: .btn .btn-blue }
+[Download]({{ site.baseurl }}/assets/images/hexa-studios/projects/hi-sign/ios-icon.png){: .btn .btn-blue }
 
 ## Alternate Logos
 
 Often there are multiple formats of the same logo, to suit different use cases. The alternates will be listed here.
 
-<!-- ![Hi Sign Icon](/assets/images/hexa-studios/projects/hi-sign/splash-icon-boxed.png)
+<!-- ![Hi Sign Icon]({{ site.baseurl }}/assets/images/hexa-studios/projects/hi-sign/splash-icon-boxed.png)
 {: .i-half} -->
 
 <div class="v-align-middle" style="background-color:black" >
-	<img class="i-half" src="/assets/images/hexa-studios/projects/hi-sign/splash-icon-boxed.png">
+	<img class="i-half" src="{{ site.baseurl }}/assets/images/hexa-studios/projects/hi-sign/splash-icon-boxed.png">
 </div>
 
-[Download](/assets/images/hexa-studios/projects/hi-sign/splash-icon-boxed.png){: .btn .btn-blue }
+[Download]({{ site.baseurl }}/assets/images/hexa-studios/projects/hi-sign/splash-icon-boxed.png){: .btn .btn-blue }
 
 ---
 

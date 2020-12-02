@@ -16,21 +16,21 @@ nav_order: 21
 
 This is the main logo. As with all the other images, it's available in various formats using the buttons.
 
-![Earlys Bar Square Logo](/assets/images/earlys-bar/squarelogo.jpg)
+![Earlys Bar Square Logo]({{ site.baseurl }}/assets/images/earlys-bar/squarelogo.jpg)
 {: .i-half}
 
-[Download](/assets/images/earlys-bar/squarelogo.jpg){: .btn .btn-blue }
+[Download]({{ site.baseurl }}/assets/images/earlys-bar/squarelogo.jpg){: .btn .btn-blue }
 
 ## Alternate Logos
 
 Often there are multiple formats of the same logo, to suit different use cases. The alternates will be listed here.
 
-![Earlys Bar Main Logo](/assets/images/earlys-bar/early_logo_bar.png)
+![Earlys Bar Main Logo]({{ site.baseurl }}/assets/images/earlys-bar/early_logo_bar.png)
 {: .i-half}
 
-[Download](/assets/images/earlys-bar/early_logo_bar.png){: .btn .btn-blue }
+[Download]({{ site.baseurl }}/assets/images/earlys-bar/early_logo_bar.png){: .btn .btn-blue }
 
-[Download White Transparent](/assets/images/earlys-bar/earlys_logo_white_transparent.png){: .btn .btn-blue }
+[Download White Transparent]({{ site.baseurl }}/assets/images/earlys-bar/earlys_logo_white_transparent.png){: .btn .btn-blue }
 
 ---
 

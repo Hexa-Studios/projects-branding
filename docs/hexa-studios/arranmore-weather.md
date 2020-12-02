@@ -16,22 +16,22 @@ parent: Hexa Internal Projects
 
 This is the main logo for the ferry, but doesn't scale well for smaller sizes. The app icon is better for smaller screens.
 
-![Arranmore Weather Logo](/assets/images/hexa-studios/projects/arranmore-weather/ios-icon.png)
+![Arranmore Weather Logo]({{ site.baseurl }}/assets/images/hexa-studios/projects/arranmore-weather/ios-icon.png)
 {: .i-half}
 
-![Arranmore Weather Round Logo](/assets/images/hexa-studios/projects/arranmore-weather/splash-icon-1024.png)
+![Arranmore Weather Round Logo]({{ site.baseurl }}/assets/images/hexa-studios/projects/arranmore-weather/splash-icon-1024.png)
 {: .i-half}
 
-[Download Square](/assets/images/hexa-studios/projects/arranmore-weather/ios-icon.png){: .btn .btn-blue }
-[Download Round](/assets/images/hexa-studios/projects/arranmore-weather/splash-icon-1024.png){: .btn .btn-blue }
+[Download Square]({{ site.baseurl }}/assets/images/hexa-studios/projects/arranmore-weather/ios-icon.png){: .btn .btn-blue }
+[Download Round]({{ site.baseurl }}/assets/images/hexa-studios/projects/arranmore-weather/splash-icon-1024.png){: .btn .btn-blue }
 
 ## Alternate Logos
 
 Often there are multiple formats of the same logo, to suit different use cases. The alternates will be listed here.
 
-![Alternate Graphic](/assets/images/hexa-studios/projects/arranmore-weather/FeatureGraphic.png)
+![Alternate Graphic]({{ site.baseurl }}/assets/images/hexa-studios/projects/arranmore-weather/FeatureGraphic.png)
 
-[Download](/assets/images/hexa-studios/projects/arranmore-weather/FeatureGraphic.png){: .btn .btn-blue }
+[Download]({{ site.baseurl }}/assets/images/hexa-studios/projects/arranmore-weather/FeatureGraphic.png){: .btn .btn-blue }
 
 ---
 

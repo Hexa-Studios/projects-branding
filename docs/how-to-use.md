@@ -23,11 +23,11 @@ A quick guide on how to use these docs.
 
 This is the main logo. As with all the other images, it's available in various formats using the buttons.
 
-![Hexa Studios Main Logo](/assets/images/hexa-studios/logo_square.jpg)
+![Hexa Studios Main Logo]({{ site.baseurl }}/assets/images/hexa-studios/logo_square.jpg)
 {: .i-half}
 
 
-[Download](/assets/images/hexa-studios/logo_square.jpg){: .btn .btn-blue }
+[Download]({{ site.baseurl }}/assets/images/hexa-studios/logo_square.jpg){: .btn .btn-blue }
 
 ## Alternate Logos
 
@@ -37,7 +37,7 @@ Often there are multiple formats of the same logo, to suit different use cases. 
 	<img class="i-half" src="/assets/images/hexa-studios/white_transparent_logo.png">
 </div>
 
-[Download](/assets/images/hexa-studios/white_transparent_logo.png){: .btn .btn-blue }
+[Download]({{ site.baseurl }}/assets/images/hexa-studios/white_transparent_logo.png){: .btn .btn-blue }
 
 ---
 

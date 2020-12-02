@@ -16,34 +16,34 @@ nav_order: 20
 
 This is the main logo for the ferry, but doesn't scale well for smaller sizes. The app icon is better for smaller screens.
 
-![Tory Ferry Realte Na Maidne Square Logo](/assets/images/tory-ferry/icons/tory_ferry_logo.png)
+![Tory Ferry Realte Na Maidne Square Logo]({{ site.baseurl }}/assets/images/tory-ferry/icons/tory_ferry_logo.png)
 {: .i-half}
 
-[Download Main Logo](/assets/images/tory-ferry/icons/tory_ferry_logo.png){: .btn .btn-blue }
+[Download Main Logo]({{ site.baseurl }}/assets/images/tory-ferry/icons/tory_ferry_logo.png){: .btn .btn-blue }
 
-[Download Main Logo No Outline](/assets/images/tory-ferry/icons/tory_ferry_logo_no_outline.png){: .btn .btn-blue }
+[Download Main Logo No Outline]({{ site.baseurl }}/assets/images/tory-ferry/icons/tory_ferry_logo_no_outline.png){: .btn .btn-blue }
 
-[Download Main Logo No Outline SVG](/assets/images/tory-ferry/icons/tory_ferry_logo_no_outline.svg){: .btn .btn-blue }
+[Download Main Logo No Outline SVG]({{ site.baseurl }}/assets/images/tory-ferry/icons/tory_ferry_logo_no_outline.svg){: .btn .btn-blue }
 
 ### Emboss Logo
 
-![Earlys Bar Main Logo](/assets/images/tory-ferry/icons/tf_emboss.png)
+![Earlys Bar Main Logo]({{ site.baseurl }}/assets/images/tory-ferry/icons/tf_emboss.png)
 {: .i-quarter}
 
-[Download](/assets/images/tory-ferry/icons/tf_emboss.png){: .btn .btn-blue }
+[Download]({{ site.baseurl }}/assets/images/tory-ferry/icons/tf_emboss.png){: .btn .btn-blue }
 
 ## Alternate Logos
 
 Often there are multiple formats of the same logo, to suit different use cases. The alternates will be listed here.
 
-![Earlys Bar Main Logo](/assets/images/tory-ferry/app/512.png)
+![Earlys Bar Main Logo]({{ site.baseurl }}/assets/images/tory-ferry/app/512.png)
 {: .i-half}
-![Earlys Bar Main Logo](/assets/images/tory-ferry/app/1024.png)
+![Earlys Bar Main Logo]({{ site.baseurl }}/assets/images/tory-ferry/app/1024.png)
 {: .i-half}
 
-[Download Square](/assets/images/tory-ferry/app/1024.png){: .btn .btn-blue }
-[Download Round ](/assets/images/tory-ferry/app/512.png){: .btn .btn-blue }
-[Download 114px](/assets/images/tory-ferry/app/114.png){: .btn .btn-blue }
+[Download Square]({{ site.baseurl }}/assets/images/tory-ferry/app/1024.png){: .btn .btn-blue }
+[Download Round ]({{ site.baseurl }}/assets/images/tory-ferry/app/512.png){: .btn .btn-blue }
+[Download 114px]({{ site.baseurl }}/assets/images/tory-ferry/app/114.png){: .btn .btn-blue }
 
 ---
 
@@ -118,5 +118,5 @@ Notifications Release Image
 
 These materials only apply seasonally and should be used sparingly.
 
-![Christmas](/assets/images/tory-ferry/seasonal/xmas-square.jpg)
+![Christmas]({{ site.baseurl }}/assets/images/tory-ferry/seasonal/xmas-square.jpg)
 {: .i-half}
