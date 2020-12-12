@@ -106,7 +106,25 @@ Notifications Release Image
 ### Tickets
 
 {% for image in site.static_files %}
-{% if image.path contains "/assets/images/tory-ferry/tickets/" %}
+{% if image.path contains "/assets/images/tory-ferry/tickets/promo/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+<!-- {: .i-half} -->
+{% endif %}
+{% endfor %}
+
+---
+
+### Tickets Launch Competition
+
+Launch images for Tory Ferry Tickets (v5.0).
+
+Options:
+* Horizontal (for Facebook and Twitter)
+* Vertical (for stories on Facebook and Instagram)
+* Square (for Instagram)
+
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/tory-ferry/tickets/launch-comp/" %}
 ![Promo]({{ site.baseurl }}{{ image.path }})
 <!-- {: .i-half} -->
 {% endif %}
