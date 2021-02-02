@@ -106,11 +106,11 @@ The colours used in the website and branding materials will be listed here with 
 
 | Color value                                                                                                        | Use Case               |
 | :----------------------------------------------------------------------------------------------------------------- | :--------------------- |
-| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#ddb537" ></span> Yellow #ddb537  | Yellow Colour |
-| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#65b053" ></span> Green #65b053  | Island Colour          |
-| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#4377b4" ></span> Blue Dark #4c88cc | Dark Waves   |
-| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#4c88cc" ></span> Blue Light #4c88cc | Light Waves |
-| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#111214" ></span> Background Black #111214 | Background |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#ECB722" ></span> Yellow #ECB722  | Yellow Colour |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#0DB14B" ></span> Green #0DB14B  | Island Colour          |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#0078B7" ></span> Blue Dark #0078B7 | Dark Waves   |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#0089D0" ></span> Blue Light #0089D0 | Light Waves |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#0D0E0F" ></span> Background Black #0D0E0F | Background |
 
 ## Fonts
 
