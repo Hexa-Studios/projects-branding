@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Árrain Mhór Coop
+title: Árainn Mhór Coop
 nav_exclude: false
 nav_order: 22
 ---
 
-# Árrain Mhór Coop Logos
+# Árainn Mhór Coop Logos
 {: .no_toc }
 
 1. TOC
