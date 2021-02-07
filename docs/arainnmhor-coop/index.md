@@ -54,6 +54,17 @@ Some 'glamour' images for presenting all three logos.
 {% endif %}
 {% endfor %}
 
+# Solo Glamour Images
+
+Some solo 'glamour' images for presenting all the logos.
+
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/arranmore-coop/solos/" %}
+![Arranmore Coop Logos - Solo Glamours]({{ site.baseurl }}{{ image.path }})
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-outline }
+{% endif %}
+{% endfor %}
+
 # Colours
 
 The colours used in the website and branding materials will be listed here with any other definitions.
