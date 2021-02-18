@@ -6,6 +6,7 @@ nav_order: 22
 ---
 
 # Árainn Mhór Coop Logos
+
 {: .no_toc }
 
 1. TOC
@@ -43,6 +44,24 @@ This is the main logo, it's available in high resolution PNG and PDF formats.
 [Download PNG]({{ site.baseurl }}assets/images/arranmore-coop/logos/culturecentre-green.png){: .btn .btn-blue }
 [Download PDF]({{ site.baseurl }}assets/images/arranmore-coop/pdf/culturecentre-green.pdf){: .btn .btn-blue }
 
+# Alternates
+
+## White Transparent
+
+Alternative logos for colour backgrounds, please note these backgrounds have been added for effect.
+
+<img class="i-quarter p-2" style="background-color:#067AAA" src="{{ site.baseurl }}assets/images/arranmore-coop/white/cc-white.png">
+
+[Download PNG]({{ site.baseurl }}assets/images/arranmore-coop/white/cc-white.png){: .btn .btn-blue }
+
+<img class="i-quarter p-2"  style="background-color:#D29600" src="{{ site.baseurl }}assets/images/arranmore-coop/white/holiday-white.png">
+
+[Download PNG]({{ site.baseurl }}assets/images/arranmore-coop/white/holiday-white.png){: .btn .btn-blue}
+
+<img class="i-quarter p-2" style="background-color:#376D21;" src="{{ site.baseurl }}assets/images/arranmore-coop/white/coop-white.png" >
+
+[Download PNG]({{ site.baseurl }}assets/images/arranmore-coop/white/coop-white.png){: .btn .btn-blue}
+
 # Glamour Images
 
 Some 'glamour' images for presenting all three logos.
@@ -69,11 +88,11 @@ Some solo 'glamour' images for presenting all the logos.
 
 The colours used in the website and branding materials will be listed here with any other definitions.
 
-| Color value                                                                                                  | Use Case            |
-| :----------------------------------------------------------------------------------------------------------- | :------------------ |
-| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#067AAA " ></span> Blue #067AAA  | Coop Logo           |
-| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#D29600 " ></span> Yellow #D29600   | Holiday Village Logo    |
-| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#376D21" ></span> Green #376D21 | Culture Centre Logo |
+| Color value                                                                                                    | Use Case             |
+| :------------------------------------------------------------------------------------------------------------- | :------------------- |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#067AAA " ></span> Blue #067AAA   | Coop Logo            |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#D29600 " ></span> Yellow #D29600 | Holiday Village Logo |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#376D21" ></span> Green #376D21   | Culture Centre Logo  |
 
 # Fonts
 
