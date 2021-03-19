@@ -71,6 +71,12 @@ Some 'glamour' images for presenting logos on social media.
 {: .i-3quarter}
 [Download PNG]({{ site.baseurl }}assets/images/arranmore-charters/social/Artboard3.jpg){: .btn .btn-blue}
 
+# Others
+
+Since the circular shape is quite unique - I've included an SVG of it to make it easier for others to replicate and work with it.
+
+[Download SVG]({{ site.baseurl }}assets/images/arranmore-charters/other/logo-shape.svg){: .btn .btn-blue}
+
 # Colours
 
 The colours used in the website and branding materials will be listed here with any other definitions.
