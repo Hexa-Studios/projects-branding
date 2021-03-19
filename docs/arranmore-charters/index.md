@@ -41,19 +41,21 @@ This is the main logo, it's available in high resolution PNG and PSD formats.
 
 [Download PNG]({{ site.baseurl }}/assets/images/arranmore-charters/logo/arranmore-charters-mainlogo-whiteoutline.png){: .btn .btn-blue }
 
-## Mono Colour White
+## Mono Colours
 
 ![Arranmore Charters Logo]({{ site.baseurl }}/assets/images/arranmore-charters/logo/arranmore-charters-monologo-white.png)
 {: .i-half}
-
-[Download PNG]({{ site.baseurl }}/assets/images/arranmore-charters/logo/arranmore-charters-monologo-white.png){: .btn .btn-blue }
-
-## Mono Colour Black
-
 ![Arranmore Charters Logo]({{ site.baseurl }}/assets/images/arranmore-charters/logo/arranmore-charters-monologo.png)
 {: .i-half}
+![Arranmore Charters Logo]({{ site.baseurl }}/assets/images/arranmore-charters/other/turq-back.png)
+{: .i-half}
+![Arranmore Charters Logo]({{ site.baseurl }}/assets/images/arranmore-charters/other/blue-back.png)
+{: .i-half}
 
-[Download PNG]({{ site.baseurl }}/assets/images/arranmore-charters/logo/arranmore-charters-monologo.png){: .btn .btn-blue }
+[Download White]({{ site.baseurl }}/assets/images/arranmore-charters/logo/arranmore-charters-monologo-white.png){: .btn .btn-blue }
+[Download Black]({{ site.baseurl }}/assets/images/arranmore-charters/logo/arranmore-charters-monologo.png){: .btn .btn-blue }
+[Download Blue BKG]({{ site.baseurl }}/assets/images/arranmore-charters/other/blue-back.png){: .btn .btn-blue }
+[Download Turqouise BKG]({{ site.baseurl }}/assets/images/arranmore-charters/other/turq-back.png){: .btn .btn-blue }
 
 # Glamour Images
 
