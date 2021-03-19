@@ -52,6 +52,7 @@ Download the apps:
 
 ### Create an image on mobile
 
+
 1.Open the app and select one of the predefined formats to select from. You can choose blank if you have a background in mind for your image or use one of the templates.
 
 ![Open the App]({{ site.baseurl }}/assets/images/hexa-studios/admin/canva-app.jpeg)
