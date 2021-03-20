@@ -61,15 +61,15 @@ Some 'glamour' images for presenting logos on social media.
 
 ![Arranmore Charters Share Image]({{ site.baseurl }}assets/images/arranmore-charters/social/Artboard1.jpg)
 {: .i-3quarter}
-[Download PNG]({{ site.baseurl }}assets/images/arranmore-charters/social/Artboard1.jpg){: .btn .btn-blue}
+[Download JPG]({{ site.baseurl }}assets/images/arranmore-charters/social/Artboard1.jpg){: .btn .btn-blue}
 
 ![Arranmore Charters Share Image]({{ site.baseurl }}assets/images/arranmore-charters/social/Artboard2.jpg)
 {: .i-3quarter}
-[Download PNG]({{ site.baseurl }}assets/images/arranmore-charters/social/Artboard2.jpg){: .btn .btn-blue}
+[Download JPG]({{ site.baseurl }}assets/images/arranmore-charters/social/Artboard2.jpg){: .btn .btn-blue}
 
 ![Arranmore Charters Share Image]({{ site.baseurl }}assets/images/arranmore-charters/social/Artboard3.jpg)
 {: .i-3quarter}
-[Download PNG]({{ site.baseurl }}assets/images/arranmore-charters/social/Artboard3.jpg){: .btn .btn-blue}
+[Download JPG]({{ site.baseurl }}assets/images/arranmore-charters/social/Artboard3.jpg){: .btn .btn-blue}
 
 # Others
 
