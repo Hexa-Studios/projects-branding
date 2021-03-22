@@ -29,6 +29,7 @@ This is the main logo, it's available in high resolution PNG and PSD formats.
 {: .i-half}
 
 [Download PNG]({{ site.baseurl }}/assets/images/kms/services/logo.png){: .btn .btn-blue }
+[Download PDF]({{ site.baseurl }}assets/images/kms/services/kms-services.pdf){: .btn .btn-blue }
 [Download PSD]({{ site.baseurl }}assets/images/kms/services/kms-services.psd){: .btn .btn-blue }
 
 # Alternates
