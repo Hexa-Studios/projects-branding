@@ -11,6 +11,7 @@ nav_order: 21
 1. TOC
 {:toc}
 
+[Download All]({{ site.baseurl }}/assets/images/earlys-bar/earlys-bar.zip){: .btn .btn-blue }
 
 ## Main logo
 

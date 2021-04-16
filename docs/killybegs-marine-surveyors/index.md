@@ -11,6 +11,8 @@ nav_order: 25
 1. TOC
 {:toc}
 
+[Download All]({{ site.baseurl }}/assets/images/kms/kms.zip){: .btn .btn-blue }
+
 # Main Logos
 
 ## Killybegs Marine Surveyors

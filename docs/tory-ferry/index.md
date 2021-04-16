@@ -11,6 +11,7 @@ nav_order: 20
 1. TOC
 {:toc}
 
+[Download All]({{ site.baseurl }}/assets/images/tory-ferry/tory-ferry.zip){: .btn .btn-blue }
 
 ## Main logo
 

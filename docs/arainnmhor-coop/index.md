@@ -12,6 +12,8 @@ nav_order: 22
 1. TOC
 {:toc}
 
+[Download All]({{ site.baseurl }}/assets/images/arranmore-coop/arranmore-coop.zip){: .btn .btn-blue }
+
 # Main Logos
 
 ## Oileán Árainn Mhór CTR

@@ -11,6 +11,8 @@ nav_order: 26
 1. TOC
 {:toc}
 
+[Download All]({{ site.baseurl }}/assets/images/arranmore-charters/arranmore-charters.zip){: .btn .btn-blue }
+
 # Main Logos
 
 ## Arranmore Charters
