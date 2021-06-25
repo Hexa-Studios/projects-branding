@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Only Plaice
-nav_order: 20
+nav_order: 28
 ---
 
 # The Only Plaice
