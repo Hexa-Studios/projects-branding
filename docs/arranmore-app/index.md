@@ -30,7 +30,8 @@ Some promotional images and mockups for the project.
 
 {% for image in site.static_files %}
 {% if image.path contains "/assets/images/arranmore-app/mockups" %}
-![Promo]({{ site.baseurl }}{{ image.path }}) {: .i-quarter}
+![Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-quarter}
 {% endif %}
 {% endfor %}
 
