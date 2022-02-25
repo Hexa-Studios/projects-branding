@@ -67,8 +67,34 @@ Links to all the fonts used throughout the project for download.
 
 Promo images featured on the website and on social
 
+### Initial Images
+
 {% for image in site.static_files %}
-{% if image.path contains "/assets/images/arranmore-ferry/promo/" %}
+{% if image.path contains "/assets/images/arranmore-ferry/promo/initial" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+<!-- {: .i-half} -->
+{% endif %}
+{% endfor %}
+
+### Notifications Blog
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/arranmore-ferry/promo/notifications" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+<!-- {: .i-half} -->
+{% endif %}
+{% endfor %}
+
+### Buy App Tickets
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/arranmore-ferry/promo/buy-app-ticket" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+<!-- {: .i-half} -->
+{% endif %}
+{% endfor %}
+
+### Update Accounts
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/arranmore-ferry/promo/update-account" %}
 ![Promo]({{ site.baseurl }}{{ image.path }})
 <!-- {: .i-half} -->
 {% endif %}
