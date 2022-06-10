@@ -152,6 +152,26 @@ Background images for use for promo.
 {% endif %}
 {% endfor %}
 
+### App Store Images [Gaeilge]
+
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/seo-arainn-mhor/app-store-ie/" %}
+![App Store Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-quarter}
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+### QR Code Images [Gaeilge]
+
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/seo-arainn-mhor/qr-code/" %}
+![App Store Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-half}
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
 
 ### Old App Example
 
