@@ -17,6 +17,37 @@ nav_exclude: false
 
 ----
 
+## Gaeilge
+
+Seo Árainn Mhór
+
+Is aip do Android agus iOS é Seo Árainn Mhór atá deartha agus forbartha ar oileán Árainn Mhór le cuspóir amháin:
+Caidé an bealach is fearr atá ann do dhaoine idir oileánaigh agus cuairteoirí, eolas a fháil faoi Árainn Mhór?
+
+So, here it is, a mobile app chock-filled with pages from your favourite Co. Donegal island.
+
+Mar sin, seo é, aip shoghluaiste atá líonta le leathanaigh ón oileán is fearr i gCo. Dhún na nGall. Tá leathanaigh againn do ghnóthaí uile an oileáin, uaireanta oscailte, grianghraif agus imeachtaí is déanaí. Idir cadhcáil agus rothaíocht go turais threoraithe agus ceol traidisiúnta. Déan cuardach ar a bhfuil uait ar léarscáil an oileáin, ag baint úsáide as cóid QR nó seiceáil féilire an oileáin.
+
+Íoslódáil an aip inniu, má tá tú ar an oileán nó i gcéin ag smaointiú fuithí, is féidir taitneamh a bhaint as scéalta an oileáin nó do chuid féin a roinnt!
+
+Tá súil againn go bhfreagraíonn aip Seo Árainn Mhór na ceisteanna faoi:
+
+- Rudaí le déanamh in Árainn Mhór?
+- Cá bhfanfaidh tú in Árainn Mhor?
+- Áiteanna le feiceáil ar Oileán Árainn Mhór?
+
+Cé muid?
+
+TIs comh-thionscnamh é an aip seo idir grúpaí pobail Oileán Árainn Mhóir:
+
+- Comharchumann Oileán Árainn Mhór
+- Pleanáil Teanga Árainn Mhór
+- CFFAM Árainn Mhór
+
+Chun níos mó a fhoghlaim, tabhair cuairt ar ár leathanach "Cé muid?" áit a bhfaighidh tú ár láithreáin ghréasáin agus sonraí teagmhála freisin. 
+
+## English
+
 Seo Árainn Mhór
 
 The Seo Árainn Mhór mobile application is an Android and iOS app designed and developed on the island of Arranmore with one purpose:
@@ -50,6 +81,23 @@ To learn more, visit our "Who We Are" page where you'll find our websites and co
 
 [https://seoarainnmhor.com](https://seoarainnmhor.com)
 
+# Colours
+
+The colours used in the website and branding materials will be listed here with any other definitions.
+
+| Color value    | Use Case  | 
+|:---------------|:---------------------|
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#1D897B" ></span> Teal #1D897B | Main Teal Colour (Web) |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#39A9F4" ></span> Blue #39A9F4 | Blue Colour |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#F9A001" ></span> Amber #F9A001 | Amber Colour |
+
+# Fonts
+
+The font is Stonecross - it doesn't include Á, ó
+
+[Stonecross Font](https://www.dafont.com/stonecross.font)
+
+---
 
 # Images
 
@@ -90,27 +138,9 @@ This is the main logo, it's available in high resolution PNG and PDF formats.
 
 ---
 
-## Colours
-
-The colours used in the website and branding materials will be listed here with any other definitions.
-
-| Color value    | Use Case  | 
-|:---------------|:---------------------|
-| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#1D897B" ></span> Teal #1D897B | Main Teal Colour (Web) |
-| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#39A9F4" ></span> Blue #39A9F4 | Blue Colour |
-| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#F9A001" ></span> Amber #F9A001 | Amber Colour |
-
-## Fonts
-
-The font is Stonecross - it doesn't include Á, ó
-
-[Stonecross Font](https://www.dafont.com/stonecross.font)
-
----
-
 ## Images
 
-### Backgrounds
+## Backgrounds
 
 Background images for use for promo.
 
@@ -122,7 +152,16 @@ Background images for use for promo.
 {% endif %}
 {% endfor %}
 
-### Promotional
+## Promotional 
+
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/seo-arainn-mhor/tiled/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+## Promotional Solos [Gaeilge]
 
 {% for image in site.static_files %}
 {% if image.path contains "/assets/images/seo-arainn-mhor/glamour/" %}
@@ -131,16 +170,7 @@ Background images for use for promo.
 {% endif %}
 {% endfor %}
 
-### App Images
-
-{% for image in site.static_files %}
-{% if image.path contains "/assets/images/seo-arainn-mhor/app/total/" %}
-![Promo]({{ site.baseurl }}{{ image.path }})
-[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
-{% endif %}
-{% endfor %}
-
-### App Store Images
+## App Store Images
 
 [Download All App Store Images]({{ site.baseurl }}/assets/images/seo-arainn-mhor/app-store/app-store-screenshots.zip){: .btn .btn-blue }
 
@@ -152,7 +182,7 @@ Background images for use for promo.
 {% endif %}
 {% endfor %}
 
-### App Store Images [Gaeilge]
+## App Store Images [Gaeilge]
 
 {% for image in site.static_files %}
 {% if image.path contains "/assets/images/seo-arainn-mhor/app-store-ie/" %}
@@ -162,7 +192,7 @@ Background images for use for promo.
 {% endif %}
 {% endfor %}
 
-### QR Code Images [Gaeilge]
+## QR Code Images [Gaeilge]
 
 {% for image in site.static_files %}
 {% if image.path contains "/assets/images/seo-arainn-mhor/qr-code/" %}
@@ -173,7 +203,20 @@ Background images for use for promo.
 {% endfor %}
 
 
-### Old App Example
+# Archived Material
+
+This materials are not for distribution, just stored for archiving reasons
+
+## App Images
+
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/seo-arainn-mhor/app/total/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+## Old App Example
 
 {% for image in site.static_files %}
 {% if image.path contains "/assets/images/seo-arainn-mhor/app/old/" %}
@@ -181,4 +224,3 @@ Background images for use for promo.
 [Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
 {% endif %}
 {% endfor %}
-
