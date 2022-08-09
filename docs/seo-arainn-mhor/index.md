@@ -152,7 +152,7 @@ Background images for use for promo.
 {% endif %}
 {% endfor %}
 
-## Promotional 
+## Promotional
 
 {% for image in site.static_files %}
 {% if image.path contains "/assets/images/seo-arainn-mhor/tiled/" %}
@@ -202,6 +202,14 @@ Background images for use for promo.
 {% endif %}
 {% endfor %}
 
+## Heritage Points
+
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/seo-arainn-mhor/heritage-points/" %}
+![App Store Heritage Point Promo]({{ site.baseurl }}{{ image.path }})
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
 
 # Archived Material
 
