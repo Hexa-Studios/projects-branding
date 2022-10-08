@@ -101,6 +101,18 @@ Promo images featured on the website and on social
 {% endfor %}
 
 
+### Update 3.0 - Google Pay - Apple Pay
+
+App v3.0 update for [The Arranmore Ferry](https://thearranmoreferry.com/blog/arranmore-ferry-apple-pay-update)
+
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/arranmore-ferry/promo/apple-google-pay" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+<!-- {: .i-half} -->
+{% endif %}
+{% endfor %}
+
+
 ### Screenshots
 
 All the images used on the App Stores
