@@ -112,7 +112,6 @@ App v3.0 update for [The Arranmore Ferry](https://thearranmoreferry.com/blog/arr
 {% endif %}
 {% endfor %}
 
-
 ### Screenshots
 
 All the images used on the App Stores

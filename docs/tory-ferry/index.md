@@ -142,6 +142,17 @@ Images for explaining the tickets functionality.
 {% endif %}
 {% endfor %}
 
+### Major v6 Update
+
+Images for promoting the new v6 version of the app
+
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/tory-ferry/v6-update/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+<!-- {: .i-half} -->
+{% endif %}
+{% endfor %}
+
 ---
 
 ## Seasonal
