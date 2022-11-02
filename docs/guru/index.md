@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Gúrú | Remote Mentoring
+title: gúrú | Remote Mentoring
 nav_exclude: false
 nav_order: 32
 ---
 
-# Gúrú Logos
+# gúrú Logos
 
 {: .no_toc }
 
@@ -16,14 +16,14 @@ nav_order: 32
 
 # Main Logos
 
-## Gúrú Remote Mentoring
+## gúrú Remote Mentoring
 
 This is the main logo, it's available in high resolution PNG and PDF formats.
 
-![Gúrú Logo]({{ site.baseurl }}assets/images/guru/logo/logo-purple.png)
+![gúrú Logo]({{ site.baseurl }}assets/images/guru/logo/logo-purple.png)
 {: .i-half}
 
-![Gúrú Logo]({{ site.baseurl }}assets/images/guru/logo/logo-amber.png)
+![gúrú Logo]({{ site.baseurl }}assets/images/guru/logo/logo-amber.png)
 {: .i-quarter}
 
 [Download Purple PNG]({{ site.baseurl }}assets/images/guru/logo/logo-purple.png){: .btn .btn-blue }
@@ -50,11 +50,11 @@ Links to all the fonts used throughout the project for download.
 
 # Web Images
 
-![Gúrú Web Image]({{ site.baseurl }}assets/images/guru/web/guru-meta.png)
+![gúrú Web Image]({{ site.baseurl }}assets/images/guru/web/guru-meta.png)
 
 [Download Web Meta Image]({{ site.baseurl }}assets/images/guru/web/guru-meta.png){: .btn .btn-blue }
 
-![Gúrú Web Image]({{ site.baseurl }}assets/images/guru/web/favicon.png)
+![gúrú Web Image]({{ site.baseurl }}assets/images/guru/web/favicon.png)
 {: .i-quarter}
 
 [Download Favicon]({{ site.baseurl }}assets/images/guru/web/favicon.png){: .btn .btn-blue }
