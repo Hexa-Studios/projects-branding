@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Seo Árainn Mhór
-nav_order: 31
 nav_exclude: false
+nav_order: 31
+has_children: true
 ---
 
 # Seo Árainn Mhór
@@ -14,8 +15,6 @@ nav_exclude: false
 [Download All]({{ site.baseurl }}/assets/images/seo-arainn-mhor/seo-arainn-mhor-download.zip){: .btn .btn-blue }
 
 # Description
-
-----
 
 ## Gaeilge
 
@@ -202,15 +201,6 @@ Background images for use for promo.
 {% endif %}
 {% endfor %}
 
-## Heritage Points
-
-{% for image in site.static_files %}
-{% if image.path contains "/assets/images/seo-arainn-mhor/heritage-points/" %}
-![App Store Heritage Point Promo]({{ site.baseurl }}{{ image.path }})
-[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
-{% endif %}
-{% endfor %}
-
 # Archived Material
 
 ## Presentation Decks 
@@ -243,3 +233,10 @@ This materials are not for distribution, just stored for archiving reasons
 [Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
 {% endif %}
 {% endfor %}
+
+
+# Notes
+
+The Heritage Council funded this project and as such - their logo should always be featured on materials created.
+
+[Heritage Council Guidelines](https://www.heritagecouncil.ie/content/files/Community-Groups-and-projects-acknowledging-hc-funding.pdf){: .btn .btn-blue }
