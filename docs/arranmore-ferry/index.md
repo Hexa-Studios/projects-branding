@@ -35,6 +35,19 @@ This is the main logo for the ferry, but doesn't scale well for smaller sizes. T
 [Download App Rounded Icon ]({{ site.baseurl }}/assets/images/arranmore-ferry/icons/app-icon-rounded-512.png){: .btn .btn-blue }
 [Download App Square Icon]({{ site.baseurl }}/assets/images/arranmore-ferry/icons/app-icon-1024.png){: .btn .btn-blue }
 
+## QR Codes
+
+
+![Arranmore QR Codes]({{ site.baseurl }}/assets/images/arranmore-ferry/qr-codes/thearranmoreferry-qrcode-homepage.png)
+{: .i-half}
+[Download Homepage QR ]({{ site.baseurl }}/assets/images/arranmore-ferry/qr-codes/thearranmoreferry-qrcode-homepage.png){: .btn .btn-blue }
+
+
+![Arranmore QR Codes]({{ site.baseurl }}/assets/images/arranmore-ferry/qr-codes/thearranmoreferry-qrcode-tickets.png)
+{: .i-half}
+[Download Tickets QR ]({{ site.baseurl }}/assets/images/arranmore-ferry/qr-codes/thearranmoreferry-qrcode-tickets.png){: .btn .btn-blue }
+
+
 ---
 
 ## Colours
