@@ -153,6 +153,18 @@ Images for promoting the new v6 version of the app
 {% endif %}
 {% endfor %}
 
+
+### Generic New Update 
+
+Images for promoting the new v6 version of the app
+
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/tory-ferry/generic-new-update/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+<!-- {: .i-half} -->
+{% endif %}
+{% endfor %}
+
 ---
 
 ## Seasonal
