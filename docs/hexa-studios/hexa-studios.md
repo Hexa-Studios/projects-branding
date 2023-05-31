@@ -1,27 +1,19 @@
 ---
 layout: default
-title: How To Use
-nav_order: 2
+title: Hexa Studios
+nav_order: 1
+parent: Hexa Internal Projects
 ---
 
-# How To Use
+# Hexa Studios
 {: .no_toc }
-
-A quick guide on how to use these docs.
-{: .fs-6 .fw-300 }
-
-## Table of contents
-
-{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
----
-
 ## Main logo
 
-This is the main logo. As with all the other images, it's available in various formats using the buttons. Click the download button or right click and Save As...
+This is the main logo. As with all the other images, it's available in various formats using the buttons.
 
 ![Hexa Studios Main Logo]({{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_square.png)
 {: .i-half}
@@ -35,7 +27,7 @@ This is the main logo. As with all the other images, it's available in various f
 
 ## Alternate Logos
 
-Often there are multiple formats of the same logo, to suit different use cases. The alternates will be listed here, this area will also feature season logos.
+Often there are multiple formats of the same logo, to suit different use cases. The alternates will be listed here.
 
 ![Hexa Studios Main Logo]({{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_square_red.png)
 {: .i-half}
