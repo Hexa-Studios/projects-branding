@@ -14,32 +14,53 @@ nav_order: 28
 
 ## Main logo
 
-This is the main logo for The Only Plaice - it's available below in PNG, SVG and PDF.
+This is the main logo for The Only Plaice in Downings - it's available below in PNG, SVG and EPS.
 
-![The Only Plaice Circular Logo]({{ site.baseurl }}/assets/images/the-only-plaice/logos/the-only-plaice-logo.png)
+![The Only Plaice Circular Logo]({{ site.baseurl }}/assets/images/the-only-plaice/downings/logos/the-only-plaice-logo.png)
 {: .i-half}
 
-[Download Main Logo]({{ site.baseurl }}/assets/images/the-only-plaice/logos/the-only-plaice-logo.png){: .btn .btn-blue }
+[Download Main Logo]({{ site.baseurl }}/assets/images/the-only-plaice/downings/logos/the-only-plaice-logo.png){: .btn .btn-blue }
 
-[Download Main Logo No Outline SVG]({{ site.baseurl }}/assets/images/the-only-plaice/logos/the-only-plaice-logo.svg){: .btn .btn-blue }
+[Download Main Logo No Outline SVG]({{ site.baseurl }}/assets/images/the-only-plaice/downings/logos/logo_svg.svg){: .btn .btn-blue }
 
-[Download Main Logo No Outline PDF]({{ site.baseurl }}/assets/images/the-only-plaice/the-only-plaice-logo.pdf){: .btn .btn-blue }
+[Download Main Logo No Outline EPS]({{ site.baseurl }}/assets/images/the-only-plaice/downings/logos/logo_eps.eps){: .btn .btn-blue }
+
+[Download Main Logo White Outline]({{ site.baseurl }}/assets/images/the-only-plaice/downings/logos/white-outline-the-only-plaice-logo.png){: .btn .btn-blue }
 
 ## Alternate Logos
 
-Some alternate logos for the
+Some alternate logos for you to use:
 
-![Alternate Logos for The Only Plaice]({{ site.baseurl }}/assets/images/the-only-plaice/logos/the-only-plaice-blue-outline.png){: .i-quarter}
-![Alternate Logos for The Only Plaice]({{ site.baseurl }}/assets/images/the-only-plaice/logos/the-only-plaice-white-outline.png){: .i-quarter}
-![Alternate Logos for The Only Plaice]({{ site.baseurl }}/assets/images/the-only-plaice/logos/the-only-plaice-yellow-outline.png){: .i-quarter}
-![Alternate Logos for The Only Plaice]({{ site.baseurl }}/assets/images/the-only-plaice/logos/the-only-plaice-terracotta-outline.png){: .i-quarter}
-![Alternate Logos for The Only Plaice]({{ site.baseurl }}/assets/images/the-only-plaice/logos/the-only-plaice-gray-outline.png){: .i-quarter}
+### Logo No Black Outline
 
-[Download Blue]({{ site.baseurl }}/assets/images/the-only-plaice/logos/the-only-plaice-blue-outline.png){: .btn .btn-blue }
-[Download White]({{ site.baseurl }}/assets/images/the-only-plaice/logos/the-only-plaice-white-outline.png){: .btn .btn-blue }
-[Download Yellow]({{ site.baseurl }}/assets/images/the-only-plaice/logos/the-only-plaice-yellow-outline.png){: .btn .btn-blue }
-[Download Terracotta]({{ site.baseurl }}/assets/images/the-only-plaice/logos/the-only-plaice-terracotta-outline.png){: .btn .btn-blue }
-[Download Grey]({{ site.baseurl }}/assets/images/the-only-plaice/logos/the-only-plaice-grey-outline.png){: .btn .btn-blue }
+![Alternate Logos for The Only Plaice]({{ site.baseurl }}/assets/images/the-only-plaice/downings/alternates/logo-no-outline.png){: .i-quarter}
+
+[Download]({{ site.baseurl }}/assets/images/the-only-plaice/downings/alternates/logo-no-outline.png){: .btn .btn-blue }
+
+### Blue
+
+![Alternate Logos for The Only Plaice]({{ site.baseurl }}/assets/images/the-only-plaice/downings/alternates/blue-white-outline.png){: .i-quarter}
+![Alternate Logos for The Only Plaice]({{ site.baseurl }}/assets/images/the-only-plaice/downings/alternates/blue-white-outline-round.png){: .i-quarter}
+
+[Download Square]({{ site.baseurl }}/assets/images/the-only-plaice/downings/alternates/blue-white-outline.png){: .btn .btn-blue }
+[Download Round]({{ site.baseurl }}/assets/images/the-only-plaice/downings/alternates/blue-white-outline-round.png){: .btn .btn-blue }
+
+### Logo No Black Outline
+
+![Alternate Logos for The Only Plaice]({{ site.baseurl }}/assets/images/the-only-plaice/downings/alternates/yellow-black.png){: .i-quarter}
+![Alternate Logos for The Only Plaice]({{ site.baseurl }}/assets/images/the-only-plaice/downings/alternates/yellow-black-round.png){: .i-quarter}
+
+[Download Square]({{ site.baseurl }}/assets/images/the-only-plaice/downings/alternates/yellow-black.png){: .btn .btn-blue }
+[Download Round]({{ site.baseurl }}/assets/images/the-only-plaice/downings/alternates/yellow-black-round.png){: .btn .btn-blue }
+
+
+### Outlines
+
+![Alternate Logos for The Only Plaice]({{ site.baseurl }}/assets/images/the-only-plaice/downings/logos/white-outline-the-only-plaice-logo.png){: .i-quarter}
+![Alternate Logos for The Only Plaice]({{ site.baseurl }}/assets/images/the-only-plaice/downings/alternates/orange-outline.png){: .i-quarter}
+
+[Download White Outline]({{ site.baseurl }}/assets/images/the-only-plaice/downings/logos/white-outline-the-only-plaice-logo.png){: .btn .btn-blue }
+[Download Orange Outline]({{ site.baseurl }}/assets/images/the-only-plaice/downings/alternates/orange-outline.png){: .btn .btn-blue }
 
 ---
 
@@ -68,9 +89,4 @@ Links to all the fonts used throughout the project for download.
 
 ### Promotional
 
-{% for image in site.static_files %}
-{% if image.path contains "/assets/images/the-only-plaice/promo/" %}
-![Promo]({{ site.baseurl }}{{ image.path }})
-<!-- {: .i-half} -->
-{% endif %}
-{% endfor %}
+TBD
