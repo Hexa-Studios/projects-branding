@@ -3,6 +3,7 @@ layout: default
 title: Arranmore Ferry
 # nav_exclude: true
 nav_order: 20
+# has_children: true
 ---
 
 # Arranmore Ferry
@@ -76,12 +77,15 @@ Links to all the fonts used throughout the project for download.
 
 ## Images
 
-### Promotional
-
-Promo images featured on the website and on social
+### Kiosk Images
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/arranmore-ferry/promo/kiosk" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+<!-- {: .i-half} -->
+{% endif %}
+{% endfor %}
 
 ### Initial Images
-
 {% for image in site.static_files %}
 {% if image.path contains "/assets/images/arranmore-ferry/promo/initial" %}
 ![Promo]({{ site.baseurl }}{{ image.path }})
@@ -145,3 +149,8 @@ All the images used on the App Stores
 {% endif %}
 {% endfor %}
 
+# Documentation
+
+[Kiosk Documentation](/projects-branding/docs/arranmore-ferry/kiosk-documentation/)
+
+[Car Label Printer Documentation](/projects-branding/docs/arranmore-ferry/label-printer-documentation/)
