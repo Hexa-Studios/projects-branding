@@ -67,6 +67,10 @@ The kiosk internals can be accessed using the 4 point key (silver one).
 
 > *NEED TO ADD PHOTO*
 
+To access other user accounts on the system you'll need to use a keyboard. There should be a keyboard either in the device or in the office. Once plugged in:
+- Press CTRL + ALT + DEL at the same time.
+- You'll be logged out to the main screen log in screen once more, from there you can access the admin account.
+
 ## Kiosk Settings
 
 Settings had to be moved to the server side because of the way Windows 11 handles cookies. You'll have to message [mat@hexastudios.co](mailto://mat@hexastudios.co) to change them. It will require a rebuild. 
@@ -124,6 +128,14 @@ The payment device is charged via USB, the device is plugged into the top of the
 
 [Stripe Documentation](https://stripe.com/docs/terminal/readers/bbpos-wisepos-e)
 
+# Internet
+
+The kiosk currently runs off it's own internet - the old router from the ferry - it's got a 28 day sim card. Bought on 22nd July 2023, so expiry will be: 19th August 2023.
+Any Three sim card will work in it.
+
+If you want to change to a different router / different internet provider, probably easiest for me to change it. Otherwise I'll write more detailed instructions for you.
+
+
 # Useful Links
 
 The kiosk URL: [Kiosk URL](https://ferrykiosk.thearranmoreferry.com), note this URL only works for the port side kiosks.
@@ -139,3 +151,16 @@ These are the till rolls that definitely work in the printer of the kiosk.
 [White Till Rolls](https://www.discounttillrolls.ie/thermal/80x70-thermal-till-rolls)
 
 [Blue Till Rolls](https://www.discounttillrolls.ie/thermal-coloured/80x80-blue-thermal-till-rolls)
+
+# Mat Notes
+
+Startup script for the printer and `ferry_auto_logon` user.
+
+```
+@ECHO OFF
+ECHO SETTING UP PRINTER...
+start /d "C:\Users\ferryAUTOLOGIN\Downloads\plugin_v3_windows_64" plugin_impresoras_termicas_v3.2_prod_64.exe
+@REM shutdown -l
+tsdiscon
+PAUSE
+```
