@@ -161,4 +161,6 @@ All the images used on the App Stores
 
 [Kiosk Documentation](/projects-branding/docs/arranmore-ferry/kiosk-documentation/)
 
+[Point Of Sale Documentation](/projects-branding/docs/arranmore-ferry/pos-documentation/)
+
 [Car Label Printer Documentation](/projects-branding/docs/arranmore-ferry/label-printer-documentation/)
