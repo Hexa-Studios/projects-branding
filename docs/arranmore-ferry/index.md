@@ -77,6 +77,14 @@ Links to all the fonts used throughout the project for download.
 
 ## Images
 
+### Golden Ticket Images
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/arranmore-ferry/promo/golden-tickets" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+<!-- {: .i-half} -->
+{% endif %}
+{% endfor %}
+
 ### Kiosk Images - Wide
 {% for image in site.static_files %}
 {% if image.path contains "/assets/images/arranmore-ferry/promo/kiosk/wide" %}
