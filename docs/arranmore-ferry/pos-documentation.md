@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kiosk Documentation
+title: Point of Sale Documentation
 nav_exclude: true
 nav_order: 20
 parent: Arranmore Ferry
@@ -41,7 +41,7 @@ When an update is available - I'll send a message and a link to this page with t
 
 ## Versions
 
-[Version 1.0.1]({{ site.baseurl }}/assets/resources/af/tf-release.1.0.2.apk){: .btn .btn-primary }
+[Version 1.3.0]({{ site.baseurl }}/assets/resources/af/af-release.1.3.0.apk){: .btn .btn-primary }
 
 ## Official Documentation
 

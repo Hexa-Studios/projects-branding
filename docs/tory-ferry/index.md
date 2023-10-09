@@ -173,3 +173,7 @@ These materials only apply seasonally and should be used sparingly.
 
 ![Christmas]({{ site.baseurl }}/assets/images/tory-ferry/seasonal/xmas-square.jpg)
 {: .i-half}
+
+# Documentation
+
+[Point Of Sale Documentation](/projects-branding/docs/tory-ferry/pos-documentation/)
