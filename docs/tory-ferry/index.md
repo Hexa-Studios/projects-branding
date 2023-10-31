@@ -165,6 +165,19 @@ Images for promoting the new v6 version of the app
 {% endif %}
 {% endfor %}
 
+
+### Golden Tickets Update 
+
+Images for promoting the golden tickets feature inside the app
+
+{% for image in site.static_files %}
+{% if image.path contains "/assets/images/tory-ferry/golden-tickets/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+<!-- {: .i-half} -->
+{% endif %}
+{% endfor %}
+
+
 ---
 
 ## Seasonal
