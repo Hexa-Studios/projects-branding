@@ -45,6 +45,8 @@ When an update is available - I'll send a message and a link to this page with t
 
 [Version 1.3.0]({{ site.baseurl }}/assets/resources/tf/tf-release.1.3.0.apk){: .btn .btn-primary }
 
+[Version 1.4.1]({{ site.baseurl }}/assets/resources/tf/tf-release.1.4.1.apk){: .btn .btn-primary }
+
 ## Official Documentation
 
 [BBPOS WisePad 3](https://stripe.com/docs/terminal/readers/bbpos-wisepad3)
