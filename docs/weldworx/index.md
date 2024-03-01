@@ -32,6 +32,18 @@ This is the main logo and should be used for most use cases.
 
 ## Alt Logos
 
+### Slogan Logo
+
+![Weldworx Black Slogan Logo]({{ site.baseurl }}/assets/images/weldworx/slogan-logo/slogan-black.png)
+{: .i-half}
+
+[Download Black Slogan Logo]({{ site.baseurl }}/assets/images/weldworx/slogan-logo/slogan-black.png){: .btn .btn-blue }
+[Download White Slogan Logo]({{ site.baseurl }}/assets/images/weldworx/slogan-logo/slogan-white.png){: .btn .btn-blue }
+
+![Weldworx Blue Slogan Logo]({{ site.baseurl }}/assets/images/weldworx/slogan-logo/slogan-blue.png)
+{: .i-half}
+
+### Alternate Logo
 
 ![Weldworx Black Alt Logo]({{ site.baseurl }}/assets/images/weldworx/alt-logo/alt_black.png)
 {: .i-half}
@@ -72,16 +84,6 @@ Links to all the fonts used throughout the project for download.
 
 # Social
 
-## Cover Photos
-
-{% assign sorted = site.static_files | reverse %}
-{% for image in sorted %}
-{% if image.path contains "/assets/images/weldworx/social/" %}
-![Promo]({{ site.baseurl }}{{ image.path }})
-[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
-{% endif %}
-{% endfor %}
-
 ## Profile Photos
 
 {% assign sorted = site.static_files | reverse %}
@@ -91,3 +93,16 @@ Links to all the fonts used throughout the project for download.
 [Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
 {% endif %}
 {% endfor %}
+
+## Cover Photos
+
+With and without the slogan
+
+{% assign sorted = site.static_files | reverse %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/weldworx/social/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
