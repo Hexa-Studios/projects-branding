@@ -94,6 +94,18 @@ Links to all the fonts used throughout the project for download.
 {% endif %}
 {% endfor %}
 
+
+## Profile Photos (with Instagram Handle)
+
+{% assign sorted = site.static_files | reverse %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/weldworx/profile-insta/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+
 ## Cover Photos
 
 With and without the slogan
