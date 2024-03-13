@@ -95,7 +95,7 @@ Links to all the fonts used throughout the project for download.
 {% endfor %}
 
 
-## Profile Photos (with Instagram Handle)
+## Profile Photos (inc. @Instagram Handle)
 
 {% assign sorted = site.static_files | reverse %}
 {% for image in sorted %}
