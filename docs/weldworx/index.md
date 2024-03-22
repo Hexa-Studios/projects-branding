@@ -15,7 +15,7 @@ nav_order: 30
 
 This is the main logo and should be used for most use cases. 
 
-![Weldowrd Black Logo]({{ site.baseurl }}/assets/images/weldworx/logo/black.png)
+![Weldworx Black Logo]({{ site.baseurl }}/assets/images/weldworx/logo/black.png)
 {: .i-half}
 
 [Download Black Logo]({{ site.baseurl }}/assets/images/weldworx/logo/black.png){: .btn .btn-blue }

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Inis Oírr
-nav_exclude: true
-nav_order: 32
+nav_exclude: false
+nav_order: 33
 has_children: false
 ---
 
@@ -12,11 +12,118 @@ has_children: false
 1. TOC
 {:toc}
 
-# Description
+# Introduction 
 
-A page for Inis Oírr for materials when presenting Seo Árainn Mhór (30th March 2023)
+Branding for the Inis Oírr Beo mobile application available for Android and iOS
 
-# Presentation Decks 
+# Main Logo
+
+![Main Logo]({{ site.baseurl }}/assets/images/inis-oirr/images/main/inis_oirr_beo_main.png)
+
+[Download Logo]({{ site.baseurl }}/assets/images/inis-oirr/images/main/inis_oirr_beo_main.png){: .btn .btn-blue }
+[Download White Logo]({{ site.baseurl }}/assets/images/inis-oirr/images/main/inis_oirr_beo_main_mono.png){: .btn .btn-blue }
+
+## Vertical Logo
+
+![Main Logo]({{ site.baseurl }}/assets/images/inis-oirr/images/main/inis_oirr_beo_vertical.png)
+{: .i-half}
+
+[Download Logo]({{ site.baseurl }}/assets/images/inis-oirr/images/main/inis_oirr_beo_vertical.png){: .btn .btn-blue }
+[Download White Logo]({{ site.baseurl }}/assets/images/inis-oirr/images/main/inis_oirr_beo_vertical_mono.png){: .btn .btn-blue }
+
+# App Icons
+
+{% assign sorted = site.static_files | reverse %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/app_icons" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-quarter}
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+## Alt Logos
+
+
+
+# Colours
+
+The colours used on the logos and social media images below.
+
+| Color value    | Uses  | 
+|:---------------|:---------------------|
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#32946F" ></span> Main Green #32946F | Logo |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#469D7D" ></span> Light Green #469D7D | Logo |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#B75B30" ></span> Plassey Orange #B75B30 | Logo |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#5E9BB8" ></span> Sea Dark #5E9BB8 | Logo |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#99C5DA" ></span> Sea Light #99C5DA | Logo |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#4B4B4B" ></span> Outline #4B4B4B | Logo |
+
+# Fonts
+
+Links to all the fonts used throughout the project for download.
+
+* Mluvka
+
+[Download Mluvka](https://fontesk.com/mluvka-grotesk-typeface/){: .btn .btn-outline }
+
+# Social
+
+## Profile Photos
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/wm_promo_text/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-half}
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+
+## Icon Only
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/icon_promo/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-half}
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+
+## Icon + Text Only
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/icon_promo_text/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-half}
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+# Promo
+
+## Logo Promo Images
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/general_promo/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+# Archive
+
+## Presentation Decks
 
 Some of the presentations decks that were used to explain the app in Inis Oírr.
 
