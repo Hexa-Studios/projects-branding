@@ -16,6 +16,8 @@ has_children: false
 
 Branding for the Inis Oírr Beo mobile application available for Android and iOS
 
+[Download All Images]({{ site.baseurl }}/assets/images/inis-oirr/all-images.zip){: .btn .btn-blue }
+
 # Main Logo
 
 ![Main Logo]({{ site.baseurl }}/assets/images/inis-oirr/images/main/inis_oirr_beo_main.png)
@@ -42,9 +44,6 @@ Branding for the Inis Oírr Beo mobile application available for Android and iOS
 [Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
 {% endif %}
 {% endfor %}
-
-## Alt Logos
-
 
 
 # Colours
