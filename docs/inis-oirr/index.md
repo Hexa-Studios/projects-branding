@@ -120,6 +120,18 @@ Links to all the fonts used throughout the project for download.
 {% endif %}
 {% endfor %}
 
+
+## Coming Soon Promo
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/coming_soon_promo/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
 # Archive
 
 ## Presentation Decks
