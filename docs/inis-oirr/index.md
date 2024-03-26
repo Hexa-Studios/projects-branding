@@ -139,6 +139,7 @@ Links to all the fonts used throughout the project for download.
 {% for image in sorted %}
 {% if image.path contains "/assets/images/inis-oirr/images/screenshots/" %}
 ![Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-quarter}
 
 [Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
 {% endif %}
