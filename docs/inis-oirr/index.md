@@ -133,6 +133,17 @@ Links to all the fonts used throughout the project for download.
 {% endif %}
 {% endfor %}
 
+## App Store Screenshots
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/screenshots/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
 # Archive
 
 ## Presentation Decks
