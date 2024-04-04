@@ -133,6 +133,17 @@ Links to all the fonts used throughout the project for download.
 {% endif %}
 {% endfor %}
 
+## Launch Leaflets (A5)
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/leaflets-a5/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
 ## App Store Screenshots
 
 {% assign sorted = site.static_files %}
