@@ -18,6 +18,7 @@ Branding for the Inis Oírr Beo mobile application available for Android and iOS
 
 [Download All Icon Images]({{ site.baseurl }}/assets/images/inis-oirr/main_icons.zip){: .btn .btn-blue }
 [Download All Promo]({{ site.baseurl }}/assets/images/inis-oirr/promo.zip){: .btn .btn-blue }
+[Download All Promo - Part 2](https://dev.hexastudios.co/inis-oirr-beo/inisoirrbeo-leaflets.zip){: .btn .btn-blue }
 
 # Main Logo
 
@@ -139,6 +140,70 @@ Links to all the fonts used throughout the project for download.
 {% for image in sorted %}
 {% if image.path contains "/assets/images/inis-oirr/images/leaflets-a5/" %}
 ![Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-half}
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+## QR Download Leaflets (A5)
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/qr-code-download-a5/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-half}
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+## QR Code Stand (A7)
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/qr-code-a7/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-half}
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+
+## Download Poster (A3)
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/a3-poster/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-half}
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+
+## Pop Up Banner (850x2050 mm)
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/pop-up-banner/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-half}
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
+
+## Cut Out Hashtags
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/cutout-hashtags/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+{: .i-half}
 
 [Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
 {% endif %}
