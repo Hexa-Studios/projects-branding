@@ -296,6 +296,20 @@ Some of the presentations decks that were used to explain the app in Inis Oírr.
 
 [Download]({{ site.baseurl }}/assets/images/inis-oirr/videos/inisoirrbeo_english_promo.mp4){: .btn .btn-blue }
 
+## YouTube Download Now Videos
+
+### Download Now (Gaeilge)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6NvXkyhoxug?si=HhX8O9OeBcDC0e44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Download]({{ site.baseurl }}/assets/images/inis-oirr/videos/inisoirr_gaeilge_download_now.mp4){: .btn .btn-blue }
+
+## Download Now (English)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pUX-oDUC11I?si=unGGSYYX6KdMgNyz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Download]({{ site.baseurl }}/assets/images/inis-oirr/videos/inisoirr_english_download_now.mp4){: .btn .btn-blue }
+
 ----
 
 # Contact Details
