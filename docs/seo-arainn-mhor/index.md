@@ -2,7 +2,7 @@
 layout: default
 title: Seo Árainn Mhór
 nav_exclude: false
-nav_order: 31
+nav_order: 16
 has_children: true
 ---
 

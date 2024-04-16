@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Árainn Mhór Coop
-nav_exclude: false
-nav_order: 22
+nav_exclude: true
+nav_order: 5
 ---
 
 # Árainn Mhór Coop Logos

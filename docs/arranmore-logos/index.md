@@ -2,7 +2,7 @@
 layout: default
 title: Arranmore Logos
 nav_exclude: false
-nav_order: 21
+nav_order: 8
 ---
 
 # Arranmore Logos

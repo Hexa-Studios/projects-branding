@@ -1,32 +1,72 @@
 ---
 layout: default
-title: Hexa Internal Projects
-nav_exclude: false
-nav_order: 12
-has_children: true
+title: Hexa Studios
+nav_order: 4
+# parent: Hexa Internal Projects
 ---
 
-# Hexa Internal Projects
+# Hexa Studios
 {: .no_toc }
 
 1. TOC
 {:toc}
 
-## Hexa Studios
+## Main logo
 
-The main branding docs for Hexa Studios itself.
+This is the main logo. As with all the other images, it's available in various formats using the buttons.
 
-[Hexa Studios >>]({{ site.baseurl }}{% link docs/hexa-studios/hexa-studios.md %}){: .btn .btn-primary }
+![Hexa Studios Main Logo]({{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_square.png)
+{: .i-half}
 
-## Arranmore Weather
+[Download]({{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_square.png){: .btn .btn-blue }
 
-A small weather app using the weather station.
+![Hexa Studios Main Logo]({{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_square_plain.png)
+{: .i-half}
 
-[Arranmore Weather >>]({{ site.baseurl }}{% link docs/hexa-studios/arranmore-weather.md %}){: .btn .btn-primary }
+[Download]({{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_square.png){: .btn .btn-blue }
 
-## Hi Sign
+## Alternate Logos
 
-A small app for sharing short messages on your phone.
+Often there are multiple formats of the same logo, to suit different use cases. The alternates will be listed here.
 
-[Hi Sign >>]({{ site.baseurl }}{% link docs/hexa-studios/hi-sign.md %}){: .btn .btn-primary }
+![Hexa Studios Main Logo]({{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_square_red.png)
+{: .i-half}
 
+[Download]({{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_square_red.png){: .btn .btn-blue } 
+
+## Transparent Logos
+
+<div style="background-color:black;padding:10px;width:fit-content" >
+	<img class="i-half" src="{{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_transparent_white.png">
+</div>
+[Download]({{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_transparent_white.png){: .btn .btn-blue }
+
+<img class="i-half" src="{{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_transparent_green.png">
+
+[Download]({{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_transparent_green.png){: .btn .btn-blue }
+
+<img class="i-half" src="{{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_transparent_red.png">
+
+[Download]({{ site.baseurl }}/assets/images/hexa-studios/logos/hexa_transparent_red.png){: .btn .btn-blue }
+
+---
+
+## Colours
+
+The colours used in the website and branding materials will be listed here with any other definitions.
+
+| Color value    | Use Case  | 
+|:---------------|:---------------------|
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#00733B" ></span> Green #00733B | Main Background Colour |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:#552045" ></span> Purple #552045 | Alternate Colour |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:white" ></span> White | White |
+| <span class="d-inline-block p-2 mr-1 v-align-middle" style="background-color:black" ></span> Black | Black |
+
+
+## Fonts
+
+Links to all the fonts used throughout the project for download.
+
+* Outfit (Google Fonts)
+
+[View Font](https://fonts.google.com/specimen/Outfit){: .btn .btn-blue }

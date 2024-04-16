@@ -14,7 +14,7 @@ parent: Seo Árainn Mhór
 
 # Description 
 
-The Scéal Ó Bhéal website is a sister project to the Seo Árainn Mhór mobile app. It contains websites
+The Scéal Ó Bhéal website is a sister project to the Seo Árainn Mhór mobile app. It contains web pages with audio files telling stories from Árainn Mhór and are available in the Seo Árainn Mhór mobile app.
 
 # Websites
 

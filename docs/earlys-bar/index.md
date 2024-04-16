@@ -2,7 +2,7 @@
 layout: default
 title: Earlys Bar
 nav_exclude: false
-nav_order: 21
+nav_order: 9
 ---
 
 # Early's Bar

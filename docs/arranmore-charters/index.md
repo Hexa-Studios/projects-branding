@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Arranmore Charters
-nav_exclude: false
-nav_order: 26
+nav_exclude: true
+nav_order: 6
 ---
 
 # Arranmore Charters Logos

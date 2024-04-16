@@ -6,29 +6,26 @@ description: "A set of design guidelines for all Hexa Studios projects."
 permalink: /
 ---
 
-# Focus on your brand
+# Hexa Studios Projects Branding
 {: .fs-9 }
 
-This website is build to collect all the design resources you need to extend the branding from your Hexa Studios project.
+This website houses all the design resources you need to share and extend the branding from your Hexa Studios project.
 {: .fs-6 .fw-300 }
 
 [Hexa Website](https://hexastudios.co){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 }
-[Contact Mat](mailto:mat@hexastudios.co){: .btn .btn-outlinw .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Contact Matthew](mailto:mat@hexastudios.co){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
 ## Getting started
 
-This small website houses all branding and design guidelines for all Hexa Studios projects. See the [How To Use](/docs/how-to-use/) for more details.
+This website hosts all branding and design guidelines for all Hexa Studios projects. 
 
-## Hexa Projects
+See the [How To Use](/docs/how-to-use/) for more details.
 
-1. Arranmore Weather
-2. Hi Sign
+## About Hexa Studios
 
-<span class="fs-3">
-[Hexa Projects]({{ site.baseurl }}{% link docs/hexa-studios/index.md %}){: .btn .btn-primary }
-</span>
+Hexa Studios is an independent mobile app and game development studio. We work with clients to solve their problems with innovative technical solutions using the latest in web & mobile technologies.
 
 ### Other Notes
 

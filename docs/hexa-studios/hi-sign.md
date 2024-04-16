@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Hi Sign
-nav_order: 20
-parent: Hexa Internal Projects
+nav_order: 11
+# parent: Hexa Internal Projects
 ---
 
 # Hi Sign
@@ -11,10 +11,11 @@ parent: Hexa Internal Projects
 1. TOC
 {:toc}
 
+## Description
+
+Hi Sign is a small utility mobile application that can be used to display text and emojis at full size on your mobile or tablet devices. Whether it's picking someone up from the airport, sharing notes silently across a room or showing answers over zoom, you can use the app to say Hi!.
 
 ## Main logo
-
-This is the main logo for the ferry, but doesn't scale well for smaller sizes. The app icon is better for smaller screens.
 
 ![Hi Sign Icon]({{ site.baseurl }}/assets/images/hexa-studios/projects/hi-sign/ios-icon.png)
 {: .i-half}
@@ -49,9 +50,10 @@ The colours used in the website and branding materials will be listed here with 
 Links to all the fonts used throughout the project for download.
 
 * Logo: Righteous
-* Text: Robot
+* Text: Roboto
 
 [View Righteous Font](https://fonts.google.com/specimen/Righteous){: .btn .btn-outline }
+[View Roboto Font](https://fonts.google.com/specimen/Roboto){: .btn .btn-outline }
 
 ---
 

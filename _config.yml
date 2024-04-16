@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hexa Branding
+title: Hexa Studios Branding
 description: Directory of branding guidelines for all Hexa Studios projects.
 baseurl: "/projects-branding/" # the subpath of your site, e.g. /blog
 url: "https://hexa-studios.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -28,7 +28,8 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 # include: ["docs/tests/"]
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
+# logo: "/assets/images/just-the-docs.png"
+logo: "/assets/images/hexa-studios/hexa-projects-branding.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -79,13 +80,11 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2023 Hexa Studios."
+footer_content: "Copyright &copy; 2024 Hexa Studios."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-
-
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: false # show or hide edit this page link 

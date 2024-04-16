@@ -2,7 +2,7 @@
 layout: default
 title: Weldworx
 # nav_exclude: true
-nav_order: 30
+nav_order: 19
 ---
 
 # Weldworx

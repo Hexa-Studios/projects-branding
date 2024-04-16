@@ -117,6 +117,17 @@ To learn more, visit our "https://inisoirrbeo.com/blog" page where you’ll find
 {% endif %}
 {% endfor %}
 
+### Website Promo Images
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/website_perspective/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
+
 # Video
 
 ## YouTube Launch Videos
@@ -161,3 +172,8 @@ Contact Email: [hello@inisoirrbeo.com](mailto:hello@inisoirrbeo.com)
 
 For information on the development of the app, please contact [inisoirrbeo@hexastudios.co](mailto:inisoirrbeo@hexastudios.co)
 
+# Links
+
+[Main Website](https://inisoirrbeo.com)
+
+[Web App](https://webapp.inisoirrbeo.com)

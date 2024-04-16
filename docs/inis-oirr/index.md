@@ -2,7 +2,7 @@
 layout: default
 title: Inis Oírr
 nav_exclude: false
-nav_order: 33
+nav_order: 12
 has_children: true
 ---
 
@@ -210,7 +210,7 @@ Links to all the fonts used throughout the project for download.
 {% for image in sorted %}
 {% if image.path contains "/assets/images/inis-oirr/images/qr-code-a7/" %}
 ![Promo]({{ site.baseurl }}{{ image.path }})
-{: .i-half}
+{: .i-quarter}
 
 [Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
 {% endif %}
@@ -229,6 +229,19 @@ Links to all the fonts used throughout the project for download.
 {% endif %}
 {% endfor %}
 
+
+## Website Promo Images
+
+These images are used as the cover images of the website, when shared on Facebook, Twitter and WhatsApp, these images are shown alongisde the link.
+
+{% assign sorted = site.static_files %}
+{% for image in sorted %}
+{% if image.path contains "/assets/images/inis-oirr/images/website_perspective/" %}
+![Promo]({{ site.baseurl }}{{ image.path }})
+
+[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
+{% endif %}
+{% endfor %}
 
 ## Pop Up Banner (850x2050 mm)
 

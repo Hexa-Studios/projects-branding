@@ -2,7 +2,7 @@
 layout: default
 title: Arranmore Ferry
 # nav_exclude: true
-nav_order: 20
+nav_order: 7
 # has_children: true
 ---
 

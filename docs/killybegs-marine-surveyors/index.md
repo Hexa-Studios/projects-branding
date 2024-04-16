@@ -2,7 +2,7 @@
 layout: default
 title: Killybegs Marine Surveyors
 nav_exclude: true
-nav_order: 25
+nav_order: 13
 ---
 
 # Killybegs Marine Surveyors Logos

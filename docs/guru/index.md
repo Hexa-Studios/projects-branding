@@ -2,7 +2,7 @@
 layout: default
 title: gúrú | Remote Mentoring
 nav_exclude: false
-nav_order: 32
+nav_order: 10
 ---
 
 # gúrú Logos

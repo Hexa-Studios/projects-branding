@@ -2,7 +2,7 @@
 layout: default
 title: Pop Up Cinema
 nav_exclude: false
-nav_order: 26
+nav_order: 15
 ---
 
 # Pop Up Cinema Logos

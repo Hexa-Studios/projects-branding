@@ -2,7 +2,7 @@
 layout: default
 title: Tory Ferry
 # nav_exclude: true
-nav_order: 20
+nav_order: 18
 ---
 
 # Tory Ferry
