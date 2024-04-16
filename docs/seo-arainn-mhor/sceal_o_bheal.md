@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scéal Ó Bhéal
-nav_order: 31
+nav_order: 1
 nav_exclude: false
 parent: Seo Árainn Mhór
 ---

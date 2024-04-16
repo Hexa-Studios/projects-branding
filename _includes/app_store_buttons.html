@@ -1,0 +1,20 @@
+{%- capture columns -%}
+	{%- if include.columns -%}
+		{{ include.columns }}
+	{%- else -%}
+		2
+	{%- endif -%}
+{%- endcapture -%}
+
+<div class="" data-columns="2" style="width: 200px">
+	<br />
+	<a href="{{include.android}}" target="_blank">
+		<img src='/projects-branding/assets/images/general/google_play_store.svg' width="200px" alt="Google Play Store Button">
+	</a>
+	<br />
+	<a href="{{include.ios}}" target="_blank">
+		<img src="/projects-branding/assets/images/general/app_store_badge.svg"  width="200px" alt="Apple App Store Link">
+	</a>
+	<br/>
+	<br/>
+</div>

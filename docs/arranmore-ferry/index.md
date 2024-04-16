@@ -165,6 +165,26 @@ All the images used on the App Stores
 {% endif %}
 {% endfor %}
 
+
+# Links
+
+## Website
+[https://thearranmoreferry.com/](https://thearranmoreferry.com/)
+
+## App Stores
+
+Android:
+[https://play.google.com/store/apps/details?id=com.thearranmoreferry.app](https://play.google.com/store/apps/details?id=com.thearranmoreferry.app)
+
+iOS:
+[https://apps.apple.com/ie/app/the-arranmore-ferry-blue/id1548020032](https://apps.apple.com/ie/app/the-arranmore-ferry-blue/id1548020032)
+
+{% include app_store_buttons.html
+	columns = 2
+	android = "https://play.google.com/store/apps/details?id=com.thearranmoreferry.app"
+	ios = "https://apps.apple.com/ie/app/the-arranmore-ferry-blue/id1548020032"
+%}
+
 # Documentation
 
 [Kiosk Documentation](/projects-branding/docs/arranmore-ferry/kiosk-documentation/)

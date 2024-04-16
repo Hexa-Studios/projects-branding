@@ -201,42 +201,32 @@ Background images for use for promo.
 {% endif %}
 {% endfor %}
 
-# Archived Material
-
-## Presentation Decks 
-
-Some of the presentations decks that were used to explain the app.
-
-[Download Intro Deck]({{site.baseurl}}{{"assets/images/seo-arainn-mhor/decks/seo-arainnmhor-brief.pdf"}}){: .btn .btn-blue }
-
-[Download Business Intro Deck]({{site.baseurl}}{{"assets/images/decks/seo-arainn-mhor/seo-arainnmhor-business-intro.pdf"}}){: .btn .btn-blue }
-
-[View Video Intro on YouTube](https://youtu.be/8ArQRfxxTgI){: .btn .btn-blue }
-
-
-This materials are not for distribution, just stored for archiving reasons
-
-## App Images
-
-{% for image in site.static_files %}
-{% if image.path contains "/assets/images/seo-arainn-mhor/app/total/" %}
-![Promo]({{ site.baseurl }}{{ image.path }})
-[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
-{% endif %}
-{% endfor %}
-
-## Old App Example
-
-{% for image in site.static_files %}
-{% if image.path contains "/assets/images/seo-arainn-mhor/app/old/" %}
-![Promo]({{ site.baseurl }}{{ image.path }})
-[Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
-{% endif %}
-{% endfor %}
-
-
 # Notes
 
 The Heritage Council funded this project and as such - their logo should always be featured on materials created.
 
 [Heritage Council Guidelines](https://www.heritagecouncil.ie/content/files/Community-Groups-and-projects-acknowledging-hc-funding.pdf){: .btn .btn-blue }
+
+# Links
+
+## Website
+
+[https://seoarainnmhor.com/](https://seoarainnmhor.com/)
+
+## Web App
+
+[https://webapp.seoarainnmhor.com/](https://webapp.seoarainnmhor.com/)
+
+## App Stores
+
+Android:
+[https://play.google.com/store/apps/details?id=com.thearranmoreferry.app](https://play.google.com/store/apps/details?id=com.thearranmoreferry.app)
+
+iOS:
+[https://play.google.com/store/apps/details?id=co.hexastudios.seoarainnmhor](https://play.google.com/store/apps/details?id=co.hexastudios.seoarainnmhor)
+
+{% include app_store_buttons.html
+	columns = 2
+	android = "https://play.google.com/store/apps/details?id=co.hexastudios.seoarainnmhor"
+	ios = "https://apps.apple.com/app/seo-%C3%A1rainn-mh%C3%B3r/id1620779594"
+%}

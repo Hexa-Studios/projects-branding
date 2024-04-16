@@ -6,7 +6,7 @@ description: "A set of design guidelines for all Hexa Studios projects."
 permalink: /
 ---
 
-# Hexa Studios Projects Branding
+# Hexa Studios - Projects Branding
 {: .fs-9 }
 
 This website houses all the design resources you need to share and extend the branding from your Hexa Studios project.
@@ -27,8 +27,10 @@ See the [How To Use](/docs/how-to-use/) for more details.
 
 Hexa Studios is an independent mobile app and game development studio. We work with clients to solve their problems with innovative technical solutions using the latest in web & mobile technologies.
 
+
+
 ### Other Notes
 
-If any additional data is needed, just contact me at [mat@hexastudios.co](mailto:mat@hexastudios.co)
+If any additional copies or formats are needed, just contact me at [mat@hexastudios.co](mailto:mat@hexastudios.co)
 
 

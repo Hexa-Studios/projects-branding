@@ -35,7 +35,7 @@ Comh-thionscnamh é an aip seo idir grúpaí pobail Inis Oírr atá páirt mhaoi
 - CLEAS
 - Pleanáíl Teanga Inis Oírr
 
-Chun níos mó a fhoghlaim, tabhair cuairt ar ár leathanach “inisoirrbeo.com/blog” áit a bhfaighidh tú ár láithreáin ghréasáin agus sonraí teagmhála freisin.
+Chun níos mó a fhoghlaim, tabhair cuairt ar ár leathanach "inisoirrbeo.com/blog" áit a bhfaighidh tú ár láithreáin ghréasáin agus sonraí teagmhála freisin.
 
 ## English
 
@@ -130,6 +130,14 @@ To learn more, visit our "https://inisoirrbeo.com/blog" page where you’ll find
 
 # Video
 
+## Instagram Videos
+
+Videos in a square format, ready for instagram.
+
+[Download Gailege]({{ site.baseurl }}/assets/images/inis-oirr/videos/inisoirrbeo_english_square.mp4){: .btn .btn-blue }
+
+[Download English]({{ site.baseurl }}/assets/images/inis-oirr/videos/inisoirrbeo_english_square.mp4){: .btn .btn-blue }
+
 ## YouTube Launch Videos
 
 ### YouTube (Gaeilge)
@@ -174,6 +182,18 @@ For information on the development of the app, please contact [inisoirrbeo@hexas
 
 # Links
 
-[Main Website](https://inisoirrbeo.com)
+[Main Website - https://inisoirrbeo.com](https://inisoirrbeo.com)
 
-[Web App](https://webapp.inisoirrbeo.com)
+[Web App - https://webapp.inisoirrbeo.com](https://webapp.inisoirrbeo.com)
+
+Android:
+[https://play.google.com/store/apps/details?id=co.hexastudios.inisoirrbeo](https://play.google.com/store/apps/details?id=co.hexastudios.inisoirrbeo)
+
+iOS:
+[https://apps.apple.com/gb/app/inis-o%C3%ADrr-beo/id6474134415](https://apps.apple.com/gb/app/inis-o%C3%ADrr-beo/id6474134415)
+
+{% include app_store_buttons.html
+	columns = 2
+	android = "https://play.google.com/store/apps/details?id=co.hexastudios.inisoirrbeo"
+	ios = "https://apps.apple.com/gb/app/inis-o%C3%ADrr-beo/id6474134415"
+%}

@@ -187,6 +187,26 @@ These materials only apply seasonally and should be used sparingly.
 ![Christmas]({{ site.baseurl }}/assets/images/tory-ferry/seasonal/xmas-square.jpg)
 {: .i-half}
 
+# Links
+
+## Website
+[https://toryferry.com/](https://toryferry.com/)
+
+## App Stores
+
+Android:
+[https://play.google.com/store/apps/details?id=com.thearranmoreferry.app](https://play.google.com/store/apps/details?id=com.thearranmoreferry.app)
+
+iOS:
+[https://play.google.com/store/apps/details?id=co.hexastudios.toryferry](https://play.google.com/store/apps/details?id=co.hexastudios.toryferry)
+
+{% include app_store_buttons.html
+	columns = 2
+	android = "https://play.google.com/store/apps/details?id=com.thearranmoreferry.app"
+	ios = "https://play.google.com/store/apps/details?id=co.hexastudios.toryferry"
+%}
+
+
 # Documentation
 
 [Point Of Sale Documentation](/projects-branding/docs/tory-ferry/pos-documentation/)
