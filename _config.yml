@@ -102,7 +102,7 @@ defaults:
       path: ""
     values:
       image: /assets/images/general/meta-image.png
-      
+
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 # ga_tracking: UA-2709176-10
