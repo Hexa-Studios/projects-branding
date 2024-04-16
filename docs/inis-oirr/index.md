@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Inis Oírr
+description: A press kit for the Inis Oírr Beo mobile app, available on iOS and Android.
 nav_exclude: false
 nav_order: 12
 has_children: true
