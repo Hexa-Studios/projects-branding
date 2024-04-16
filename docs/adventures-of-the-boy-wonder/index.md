@@ -18,7 +18,7 @@ image:
 
 ## Description
 
-Hi Sign is a small utility mobile application that can be used to display text and emojis at full size on your mobile or tablet devices. Whether it's picking someone up from the airport, sharing notes silently across a room or showing answers over zoom, you can use the app to say Hi!.
+Adventures of the Boy Wonder is a mobile game developed for Android and iOS by Hexa Studios as a gift to Owen Loughnane on his 21st Birthday.
 
 ## Main logo
 

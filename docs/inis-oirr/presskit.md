@@ -46,7 +46,7 @@ Chun níos mó a fhoghlaim, tabhair cuairt ar ár leathanach "inisoirrbeo.com/bl
 ## English
 
 The Inis Oírr Beo mobile application is an Android and iOS app designed and developed on the island of Inis Oírr with three purposes: How do we make it simple for people, islanders and visitors alike, to discover what's going on on Inis Oírr, to promote the Irish language using the latest technology both written and audio and to develop a unified branded across the island?
-So, here it is, a mobile app chock-filled with pages from your favorite, the smallest of the Aran Islands.
+So, here it is, a mobile app chock-filled with pages from your favourite, the smallest of the Aran Islands.
 
 We’ve got pages for all the island’s businesses, their opening times, products, photos and latest events. Search for what you want on the island map, using QR codes or just check the island calendar.
 
