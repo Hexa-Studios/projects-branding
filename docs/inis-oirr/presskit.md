@@ -3,6 +3,11 @@ layout: default
 title: Inis Oírr Beo Presskit
 nav_order: 1
 parent: Inis Oírr
+image:
+  path: "/assets/images/inis-oirr/images/meta/inisoirr_meta.png"
+  height: 1200
+  width: 630
+  alt: Inis Oírr Beo Logo
 ---
 
 # Inis Oírr Beo Presskit

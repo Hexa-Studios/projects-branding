@@ -4,6 +4,11 @@ title: Inis Oírr
 nav_exclude: false
 nav_order: 12
 has_children: true
+image:
+  path: "/assets/images/inis-oirr/images/meta/inisoirr_meta.png"
+  height: 1200
+  width: 630
+  alt: Inis Oírr Beo Logo
 ---
 
 # Inis Oírr

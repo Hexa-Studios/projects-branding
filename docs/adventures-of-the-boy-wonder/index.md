@@ -1,8 +1,13 @@
 ---
 layout: default
 title: Adventures of the Boy Wonder
+description: Adventures of the Boy Wonder is a mobile game developed for Android and iOS by Hexa Studios
 nav_order: 5
-# parent: Hexa Internal Projects
+image:
+  path: assets/images/adventures-of-the-boy-wonder/cover-images/full-logo.png
+  height: 1600
+  width: 840
+  alt: Seo Árainn Mhór Logo
 ---
 
 # Adventures of the Boy Wonder

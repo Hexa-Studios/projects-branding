@@ -4,6 +4,11 @@ title: Seo Árainn Mhór
 nav_exclude: false
 nav_order: 16
 has_children: true
+image:
+  path: assets/images/seo-arainn-mhor/backgrounds/Artboard4.png
+  height: 1920
+  width: 1081
+  alt: Seo Árainn Mhór Logo
 ---
 
 # Seo Árainn Mhór
