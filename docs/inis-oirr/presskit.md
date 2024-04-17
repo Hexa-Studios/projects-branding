@@ -112,7 +112,7 @@ To learn more, visit our "https://inisoirrbeo.com/blog" page where you’ll find
 {% endif %}
 {% endfor %}
 
-### Logo Promo Images
+<!-- ### Logo Promo Images
 
 {% assign sorted = site.static_files %}
 {% for image in sorted %}
@@ -121,7 +121,7 @@ To learn more, visit our "https://inisoirrbeo.com/blog" page where you’ll find
 
 [Download]({{ site.baseurl }}{{ image.path }}){: .btn .btn-blue }
 {% endif %}
-{% endfor %}
+{% endfor %} -->
 
 ### Website Promo Images
 
@@ -185,6 +185,10 @@ Contact Email: [hello@inisoirrbeo.com](mailto:hello@inisoirrbeo.com)
 ## App Development
 
 For information on the development of the app, please contact [inisoirrbeo@hexastudios.co](mailto:inisoirrbeo@hexastudios.co)
+
+# More Artwork
+
+Further artwork for the project can be found [here](../)
 
 # Links
 

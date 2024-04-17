@@ -21,7 +21,7 @@ This website houses all the design resources you need to share and extend the br
 
 This website hosts all branding and design guidelines for all Hexa Studios projects. 
 
-See the [How To Use](/docs/how-to-use/) for more details.
+See the [How To Use](/projects-branding/docs/how-to-use/) for more details.
 
 ## About Hexa Studios
 
